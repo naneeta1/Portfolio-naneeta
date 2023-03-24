@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-naneeta/static/css/main.477f3046.css",
+    "main.js": "/portfolio-naneeta/static/js/main.e62f90e8.js",
+    "static/media/girl.png": "/portfolio-naneeta/static/media/girl.73c72e1e0504414b0c1f.png",
+    "static/media/project5.jpg": "/portfolio-naneeta/static/media/project5.684763a3e3a43a52eb50.jpg",
+    "static/media/project6.jpg": "/portfolio-naneeta/static/media/project6.e21aea5fdbe2e4f0115e.jpg",
+    "static/media/project2.jpg": "/portfolio-naneeta/static/media/project2.21f37ade55a7bb6704f5.jpg",
+    "static/media/project1.jpg": "/portfolio-naneeta/static/media/project1.ee39ea420381307ab7b6.jpg",
+    "static/media/project4.jpg": "/portfolio-naneeta/static/media/project4.de083c426d5176a0da37.jpg",
+    "static/media/project7.jpg": "/portfolio-naneeta/static/media/project7.a9ba933c0ca09a7a6ed9.jpg",
+    "static/media/glassesimoji.png": "/portfolio-naneeta/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/project8.jpg": "/portfolio-naneeta/static/media/project8.a6e874dacf1e9560db00.jpg",
+    "static/media/resume.pdf": "/portfolio-naneeta/static/media/resume.9ef52f232cb22802176c.pdf",
+    "static/media/project3.jpg": "/portfolio-naneeta/static/media/project3.3d82e3adb114984d3f71.jpg",
+    "static/media/award.webp": "/portfolio-naneeta/static/media/award.c2403e8bd428bff9f6bd.webp",
+    "static/media/humble.png": "/portfolio-naneeta/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/portfolio-naneeta/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/glasses.png": "/portfolio-naneeta/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/portfolio-naneeta/index.html",
+    "main.477f3046.css.map": "/portfolio-naneeta/static/css/main.477f3046.css.map",
+    "main.e62f90e8.js.map": "/portfolio-naneeta/static/js/main.e62f90e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477f3046.css",
+    "static/js/main.e62f90e8.js"
+  ]
+}
